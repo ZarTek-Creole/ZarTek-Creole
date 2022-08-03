@@ -24,6 +24,11 @@ Les annonces sont totalement personalisable : Couleurs, informations : Durée, e
 
 Ce script récupère des informations sur les mots à l'aide de l'[API Dictionary v2](https://dictionaryapi.dev), il support les langues suivantes: en,hi,es,fr,ja,ru,de,it,ko,pt-br,ar,tr
 
+* [TCL-ClaraServ](https://github.com/ZarTek-Creole/TCL-ClaraServ)
+
+Services IRC en TCL - Animation de salon, Aide de réseau, Profil d'utilisateur
+
+
 * [TCL-SCRIPT-MANAGER Aka TSM](https://github.com/ZarTek-Creole/TCL-SCRIPT-MANAGER)
 
 TSM (TCL-SCRIPT-MANAGER) est unTSM gestionnaire de scripts TCL en terminal qui vous permet d'installer, de mettre à jour et de désinstaller facilement des scripts TCL. Il est basé sur un système de "sources listes" contenant des catalogues de scripts (sur git) personnalisables, comme un genre de APT pour script TCL Eggdrop.
