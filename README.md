@@ -15,7 +15,7 @@ vous allez trouver sur ma page des Scripts TCL pour Eggdrop entre autres.
 * TCL, Mirc Script, PHP, MySQL (MariaDB), Bash, batch, ...
 
 # Mes Scripts TCL exhausif :
-* 
+* [TCL-Youtube-Link](https://github.com/ZarTek-Creole/TCL-Youtube-Link)
 Ce script récupère des informations sur les titres Youtube à l'aide de l'API Youtube V3.
 Permet de rechercher des titres avec des mots clefs
 Il écoute les liens youtube sur les salons et affiche les informations des titres
