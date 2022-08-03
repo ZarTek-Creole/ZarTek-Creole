@@ -1,16 +1,33 @@
-### Hi there 👋
+# Salutations
+Bonjour :bowtie:,
+Bienvenue sur ma page personelle github :briefcase:
 
-<!--
-**ZarTek-Creole/ZarTek-Creole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Présentation
+Je suis un garçon qui adore l'informatique depuis mon jeune age,
 
-Here are some ideas to get you started:
+Je suis curieux de nature, je fait mes decouvertes et mon apprentisage en auto-didacte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis passioner d'IRC et tout ce qui l'entour,
+
+vous allez trouver sur ma page des Scripts TCL pour Eggdrop entre autres.
+
+# Mes connaissances
+* TCL, Mirc Script, PHP, MySQL (MariaDB), Bash, batch, ...
+
+# Mes Scripts TCL exhausif :
+* 
+Ce script récupère des informations sur les titres Youtube à l'aide de l'API Youtube V3.
+Permet de rechercher des titres avec des mots clefs
+Il écoute les liens youtube sur les salons et affiche les informations des titres
+Les annonces sont totalement personalisable : Couleurs, informations : Durée, etc
+* [TCL-DictionaryAPI](https://github.com/ZarTek-Creole/TCL-DictionaryAPI)
+Ce script récupère des informations sur les mots à l'aide de l'[API Dictionary v2](https://dictionaryapi.dev), il support les langues suivantes: en,hi,es,fr,ja,ru,de,it,ko,pt-br,ar,tr
+* https://github.com/ZarTek-Creole/TCL-ReplicaServ-Service
+* https://github.com/ZarTek-Creole/TCL-PROXYCHECK
+* https://github.com/ZarTek-Creole/TCL-MOCKS
+
+# Mes Packages TCL exhausif :
+* https://github.com/ZarTek-Creole/TCL-PKG-IRCC
+
+# Mes powershell exhausif :
+https://github.com/ZarTek-Creole/POWERSHELL-WinSCP-PORTABLE-FR-UPDATE
