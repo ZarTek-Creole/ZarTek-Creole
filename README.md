@@ -1,18 +1,7 @@
 # Salutations
 Bonjour :bowtie:,
 Bienvenue sur ma page personelle github :briefcase:
-
-# Présentation
-Je suis un garçon qui adore l'informatique depuis mon jeune age,
-
-Je suis curieux de nature, je fait mes decouvertes et mon apprentisage en auto-didacte.
-
-Je suis passioner d'IRC et tout ce qui l'entour,
-
-vous allez trouver sur ma page des Scripts TCL pour Eggdrop entre autres.
-
-# Mes connaissances
-* TCL, Mirc Script, PHP, MySQL (MariaDB), Bash, batch, ...
+Visitez la page web : https://zartek-creole.github.io/
 
 # Mes Scripts TCL exhausif :
 * [TCL-Youtube-Link](https://github.com/ZarTek-Creole/TCL-Youtube-Link)
