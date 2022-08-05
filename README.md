@@ -17,7 +17,7 @@ https://zartek-creole.github.io/
 Ce script récupère des informations sur les titres Youtube à l'aide de l'API Youtube V3.
 Il permet de rechercher des titres avec des mots clefs
 Il écoute les liens youtube sur les salons et affiche les informations des titres
-Les annonces sont totalement personalisable : Couleurs, informations : Durée, etc
+Les annonces sont totalement personnalisables : Couleurs, informations : Durée, etc
 
 
 * [TCL-DictionaryAPI](https://github.com/ZarTek-Creole/TCL-DictionaryAPI) (Free/Gratuit/Donation)
@@ -31,17 +31,17 @@ Services IRC en TCL - Animation de salon, Aide de réseau, Profil d'utilisateur
 
 * [TCL-SCRIPT-MANAGER Aka TSM](https://github.com/ZarTek-Creole/TCL-SCRIPT-MANAGER) (Free/Gratuit/Donation)
 
-TSM (TCL-SCRIPT-MANAGER) est un TSM gestionnaire de scripts TCL en terminal qui vous permet d'installer, de mettre à jour et de désinstaller facilement des scripts TCL. Il est basé sur un système de "sources listes" contenant des catalogues de scripts (sur git) personnalisable, comme un genre de APT pour scripts TCL Eggdrop.
+TSM (TCL-SCRIPT-MANAGER) est un TSM gestionnaire de scripts TCL en terminal qui vous permet d'installer, de mettre à jour et de désinstaller facilement des scripts TCL. Il est basé sur un système de "sources listes" contenant des catalogues de scripts (sur git) personnalisables, comme un genre de APT pour scripts TCL Eggdrop.
 
 
 * [TCL-ReplicaServ-Service](https://github.com/ZarTek-Creole/TCL-ReplicaServ-Service) (Free/Gratuit/Donation)
 
-Version eggdrop de l'ancien script "Les poupées linkeuses". Permet de répliqué sur votre IRCD les users/messages d'un ircd/salon distance
+Version eggdrop de l'ancien script "Les poupées linkeuses". Permet de répliquer sur votre IRCD les users/messages d'un ircd/salon distance
 
 
 * [TCL-PROXYCHECK](https://github.com/ZarTek-Creole/TCL-PROXYCHECK) (Free/Gratuit/Donation)
 
-Ce script "VPN CATCHER" verifie les informations de connexions des utilisateurs qui se connectent à votre IRCD et permet de bannir les connexions les moins sécurisées. 
+Ce script "VPN CATCHER" verifie les informations de connexions des utilisateurs venant sur votre IRCD et permet de bannir les connexions les moins sécurisées. 
 
 
 * [TCL-MOCKS](https://github.com/ZarTek-Creole/TCL-MOCKS) (Free/Gratuit/Donation)
@@ -66,16 +66,16 @@ Script qui permet d'afficher du contenu par titre
 
 * [TCL_Exec](https://github.com/ZarTek-Creole/TCL_Exec) (Free/Gratuit/Donation)
 
-TCL_Exec permet d'executer des commandes TCL via votre salon IRC par votre robot.
+TCL_Exec permet d'éxécuter des commandes TCL via votre salon IRC par votre robot.
 
 * [TCL-DebugLoader](https://github.com/ZarTek-Creole/TCL-DebugLoader) (Free/Gratuit/Donation)
 
-Ce script se charge en premier dans la config eggdrop. DebugLoader permet de charger des scripts TCL. Il redirige les erreurs dans un fichier ${::botnet-nick}_Error.log, ainsi que sur un channel 'Channel_Debug'. Très pratique pour les developpers, afin de suivre les erreurs, mais également il permet de ne pas "planter" le robot en cas de problème…
+Ce script se charge en premier dans la config eggdrop. DebugLoader permet de charger des scripts TCL. Il redirige les erreurs dans un fichier ${::botnet-nick}_Error.log, ainsi que sur un channel 'Channel_Debug'. Très pratique pour les developpeurs, afin de suivre les erreurs, mais également il permet de ne pas "planter" le robot en cas de problème.
 
 
 * [TCL-AuthIRC](https://github.com/ZarTek-Creole/TCL-AuthIRC) (Free/Gratuit/Donation)
 
-Ce script se charge en premier dans la config eggdrop. AuthIRC permet d'identifier votre robot aux services ANOPE. Il s'auto-invite & join les channels desirés.
+Ce script se charge en premier dans la config eggdrop. AuthIRC permet d'identifier votre robot aux services ANOPE. Il s'auto-invite & joint les channels desirés.
 
 
 
@@ -89,7 +89,7 @@ Fixed some eggdrops commands in logic.
 
 * [tcl-echo-scripts](https://github.com/ZarTek-Creole/tcl-echo-scripts) (Privée/Payant/Donation)
 
-Ce script permet de créer un système de prebot -alimenté par des salons de ADDPRE- via un botnet fonctionnant selon le principe de MASTER-SALVE. C'est à dire que les SLAVES sont connectés via le botnet à un MASTER. Le MASTER reçoit les informations des slaves pour les ajouter en base de données. Chaques SLAVES ont un script ESCRIPTS-FCT_BOT:ECHOs.tcl qui ecoute les salons pour envoyer les annonces !ADDPRE etc au MASTER. Pour interroger la base de donneés, le script Echo-CMDS.tcl permet de répondre aux commandes
+Ce script permet de créer un système de prebot -alimenté par des salons de ADDPRE- via un botnet fonctionnant selon le principe de MASTER-SALVE. C'est à dire que les SLAVES sont connectés via le botnet à un MASTER. Le MASTER reçoit les informations des slaves pour les ajouter en base de données. Chaque SLAVE a un script ESCRIPTS-FCT_BOT:ECHOs.tcl qui ecoute les salons pour envoyer les annonces !ADDPRE etc au MASTER. Pour interroger la base de donneés, le script Echo-CMDS.tcl permet de répondre aux commandes
 
 * [TCL-BYPASS-WHO-BLOCKED](https://github.com/ZarTek-Creole/TCL-BYPASS-WHO-BLOCKED) (Privée/Payant/Donation)
 
@@ -150,7 +150,7 @@ Scripts de gestions de eggdrops
 
 Scripts d'installation de glftpd et des plugins
 
-Etend les fonctionalité de slftp
+Etend les fonctionalitées de slftp
 
 # Mes mIRC scripts
 
