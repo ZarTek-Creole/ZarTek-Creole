@@ -10,7 +10,7 @@ https://github.com/ZarTek-Creole/DONATE
 # Page vitrine / web site
 https://zartek-creole.github.io/
 
-# Mes Scripts TCL (exhausif) :
+# Mes Scripts TCL (exhaustif) :
 
 * [TCL-Youtube-Link](https://github.com/ZarTek-Creole/TCL-Youtube-Link) (Free/Gratuit/Donation)
 
@@ -98,7 +98,7 @@ Certains IRCD empêchent les Eggdrops en modifiant ou bloquant les réponses WHO
 
 
 
-# Mes Packages TCL (exhausif) :
+# Mes Packages TCL (exhaustif) :
 
 * [TCL-PKG-IRCC Aka IRC Client](https://github.com/ZarTek-Creole/TCL-PKG-IRCC) (Free/Gratuit/Donation)
 
@@ -115,7 +115,7 @@ cbFTPtcl client implementation for Tcl.
 
 
 
-# Mes powershell (exhausif) :
+# Mes powershell (exhaustif) :
 
 * [POWERSHELL-WinSCP-PORTABLE-FR-UPDATE](https://github.com/ZarTek-Creole/POWERSHELL-WinSCP-PORTABLE-FR-UPDATE) (Free/Gratuit/Donation)
 
@@ -210,8 +210,3 @@ Script permettant d'afficher un fact au hasard pris sur le site "http://chucknor
 * [TCL-Live_Bug_Tracer Aka LBT](https://github.com/ZarTek-Creole/TCL-Live_Bug_Tracer)
 
 Live Bug Tracer est une boîte à outils de déboguage. Ce script s'adresse aux développeurs Tcl, mais aussi à l'utilisateur lambda qui y trouvera plusieurs fonctionnalités simples d'utilisation et potentiellement très utile.
-
-
-
-
-
