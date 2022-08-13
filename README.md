@@ -1,13 +1,13 @@
 # Salutations
 Bonjour :bowtie:,
-Bienvenue sur ma page personelle github :briefcase:
+Bienvenue sur ma page personnelle github :briefcase:
 
 
 # Donation
 Si vous aimez mon travail mis à disposition gratuitement, vous pouvez faire une donation
 https://github.com/ZarTek-Creole/DONATE
 
-# Creation, modification, correction TCL sur mesure
+# Création, modification, correction TCL sur mesure
 [C'est par ici !](https://ko-fi.com/zartek/commissions#buyShopCommissionModal)
 
 # Page vitrine / web site
@@ -91,7 +91,7 @@ https://zartek-creole.github.io/
     - [tcl-chuck](#tcl-chuck)
     - [TCL-Live_Bug_Tracer Aka LBT](#tcl-live_bug_tracer-aka-lbt)
   
-# Mes realisations
+# Mes réalisations
 ## Mes Scripts TCL (exhaustif) :
 
 ### [TCL-Youtube-Link](https://github.com/ZarTek-Creole/TCL-Youtube-Link) <span style="color:green">(Free/Gratuit/Donation)</span>
@@ -104,7 +104,7 @@ https://zartek-creole.github.io/
 
 ### [TCL-DictionaryAPI](https://github.com/ZarTek-Creole/TCL-DictionaryAPI) <span style="color:green">(Free/Gratuit/Donation)</span>
 
-> Ce script récupère des informations sur les mots à l'aide de l'[API Dictionary v2](https://dictionaryapi.dev), il support les langues suivantes: en,hi,es,fr,ja,ru,de,it,ko,pt-br,ar,tr
+> Ce script récupère des informations sur les mots à l'aide de l'[API Dictionary v2](https://dictionaryapi.dev), il supporte les langues suivantes: en,hi,es,fr,ja,ru,de,it,ko,pt-br,ar,tr
 
 ### [TCL-ClaraServ](https://github.com/ZarTek-Creole/TCL-ClaraServ) <span style="color:green">(Free/Gratuit/Donation)</span>
 
@@ -116,15 +116,15 @@ https://zartek-creole.github.io/
 
 ### [TCL-ReplicaServ-Service](https://github.com/ZarTek-Creole/TCL-ReplicaServ-Service) <span style="color:green">(Free/Gratuit/Donation)</span>
 
-> Version eggdrop de l'ancien script "Les poupées linkeuses". Permet de répliquer sur votre IRCD les users/messages d'un ircd/salon distance
+> Version eggdrop de l'ancien script "Les poupées linkeuses". Permet de répliquer sur votre IRCD les users/messages d'un ircd/salon à distance
 
 ### [TCL-PROXYCHECK](https://github.com/ZarTek-Creole/TCL-PROXYCHECK) <span style="color:green">(Free/Gratuit/Donation)</span>
 
-> Ce script "VPN CATCHER" verifie les informations de connexions des utilisateurs venant sur votre IRCD et permet de bannir les connexions les moins sécurisées. 
+> Ce script "VPN CATCHER" vérifie les informations de connexions des utilisateurs venant sur votre IRCD et permet de bannir les connexions les moins sécurisées. 
 
 ### [TCL-MOCKS](https://github.com/ZarTek-Creole/TCL-MOCKS) <span style="color:green">(Free/Gratuit/Donation)</span>
 
-> Ce script permet de manipuler le logiciel de proxy ['My Own soCKs Server' aka mocks](https://sourceforge.net/projects/mocks) via votyre bot eggdrop sur IRC
+> Ce script permet de manipuler le logiciel de proxy ['My Own soCKs Server' aka mocks](https://sourceforge.net/projects/mocks) via votre bot eggdrop sur IRC
 
 ### [TCL-EvaServ](https://github.com/ZarTek-Creole/TCL-EvaServ) <span style="color:green">(Free/Gratuit/Donation)</span>
 
@@ -132,11 +132,11 @@ https://zartek-creole.github.io/
 
 ### [TCL-UJL Aka Unrealircd Json Logs](https://github.com/ZarTek-Creole/TCL-UJL) <span style="color:green">(Free/Gratuit/Donation)</span>
 
-> Outils de gestion du cap unrealircd json logging. Autrement dit, il permet de recuprer les informations venant du CAP(abilities) **U**nrealircd **J**son **L**ogs pour les avoir a tout temps disponible par le eggdrop. Comme le realname par exemple : [GetRealName <nick>]
+> Outils de gestion du cap unrealircd json logging. Autrement dit, il permet de récuprer les informations venant du CAP(abilities) **U**nrealircd **J**son **L**ogs pour les avoir tout le temps disponibles par le eggdrop. Comme le realname par exemple : [GetRealName <nick>]
 
 ### [TCL-SHOWINFO](https://github.com/ZarTek-Creole/TCL-SHOWINFO) <span style="color:green">(Free/Gratuit/Donation)</span>
 
-> Script qui permet d'afficher du contenu par titre. Vous avez un fichier avec des lignes numeroté qui creer des sections, et du texte associer qui vous permet de de facilement mettre a disposition de vos utilisateurs des informations telle que les commandes de votre eggdrop par exemple
+> Script qui permet d'afficher du contenu par titre. Vous avez un fichier avec des lignes numerotées qui créer des sections, et du texte associé qui vous permet de facilement mettre à disposition de vos utilisateurs des informations telle que les commandes de votre eggdrop par exemple
 
 
 ### [TCL_Exec](https://github.com/ZarTek-Creole/TCL_Exec) <span style="color:green">(Free/Gratuit/Donation)</span>
@@ -153,12 +153,12 @@ https://zartek-creole.github.io/
 
 ### [TCL-ZCT Aka **Z**arTek-**C**reole **T**oolkit](https://github.com/ZarTek-Creole/TCL-ZCT) <span style="color:green">(Free/Gratuit/Donation)</span>
 
-> ZCT est un ensemble d'outils TCL conçu pour fonctionner avec les TCL de ZarTeK-Creole qui etend les fonctions et commandes de votre irc. 
-> Il évite de dupliquer les codes ou de recreer la roue dans les scripts et falicite le developement TCL.
+> ZCT est un ensemble d'outils TCL conçu pour fonctionner avec les TCL de ZarTeK-Creole qui étend les fonctions et commandes de votre irc. 
+> Il évite de dupliquer les codes ou de recréer la roue dans les scripts et falicite le développement TCL.
 
 ### [fix.eggdrop.cmd.tcl](https://github.com/ZarTek-Creole/tcl-fix.eggdrop.cmd/blob/main/fix.eggdrop.cmd.tcl) <span style="color:green">(Free/Gratuit/Donation)</span>
-> Je trouve que certaines commandes eggdrop (interne) manque de logique d'utilisation, ou que les commandes ont des nom illogique pour la facilité
-> Par exemple tout les commandes "user" vont commencer par user ?options? ; ```countusers``` deviens ```user count``` , ```getuser``` par ```user get ```, etc 
+> Je trouve que certaines commandes eggdrop (interne) manque de logique d'utilisation, ou que les commandes ont des noms illogiques pour la facilité
+> Par exemple toutes les commandes "user" vont commencer par user ?options? ; ```countusers``` deviens ```user count``` , ```getuser``` par ```user get ```, etc 
 
 ### [tcl-echo-scripts](https://github.com/ZarTek-Creole/tcl-echo-scripts) <span style="color:red">(Privée/Payant/Donation)</span>
 
@@ -170,7 +170,7 @@ https://zartek-creole.github.io/
 
 ### [TCL-BYPASS-WHO-BLOCKED](https://github.com/ZarTek-Creole/TCL-BYPASS-WHO-BLOCKED) <span style="color:red">(Privée/Payant/Donation)</span>
 
-> Certains IRCD empêchent les Eggdrops en modifiant ou bloquant les réponses WHO/WHOX. ce script permet de faire fonctionner eggdrop tout de même.
+> Certains IRCD empêchent les Eggdrops en modifiant ou bloquant les réponses WHO/WHOX. ce script permet de faire fonctionner l'eggdrop tout de même.
 
 ---
 
@@ -178,19 +178,19 @@ https://zartek-creole.github.io/
 
 ### [TCL-PKG-IRCC Aka **IRC C**lient](https://github.com/ZarTek-Creole/TCL-PKG-IRCC) <span style="color:green">(Free/Gratuit/Donation)</span>
 
-> Ce code est baser sur le package IRC de tcllib et supporte les nouveau protocol (unrealircd v5 et plus ou moins)
+> Ce code est basé sur le package IRC de tcllib et supporte les nouveau protocoles (unrealircd v5 et plus ou moins)
 > Permet de créer des connexions utilisateur IRC sur des serveurs IRCD; comme si vous vous connectez avec votre client et de les manipuler
 
 ### [TCL-PKG-IRCServices](https://github.com/ZarTek-Creole/TCL-PKG-IRCServices) <span style="color:green">(Free/Gratuit/Donation)</span>
 
 > Package IRC Services
-> IRCServices creer une interface en TCL et la connexion d'un Service à un IRCD (comme anope).
+> IRCServices crée une interface en TCL et la connexion d'un Service à un IRCD (comme anope).
 > Ce package fournit des Commandes de bas niveau pour gérer le protocole IRC Serveur/service pour une communication multidiffusion immédiate et interactive.
 
 ### [TCL-PKG-cbFTPtcl](https://github.com/ZarTek-Creole/TCL-PKG-cbFTPtcl) <span style="color:red">(Privée/Payant/Donation)</span>
 
-> cbFTPtcl client implementation for Tcl.
-> manipuler entierement votre cbFTP via ce package cbFTPtcl sous votre eggdrop sur un salon d'un serveur irc
+> cbFTPtcl est un client d'implementation pour Tcl.
+> manipuler entièrement votre cbFTP via ce package cbFTPtcl sous votre eggdrop sur un salon d'un serveur irc
 
 ---
 
@@ -199,7 +199,7 @@ https://zartek-creole.github.io/
 ### [POWERSHELL-WinSCP-PORTABLE-FR-UPDATE](https://github.com/ZarTek-Creole/POWERSHELL-WinSCP-PORTABLE-FR-UPDATE) <span style="color:green">(Free/Gratuit/Donation)</span>
 
 > Mise à jour automatiquement de WinSCP "portable" et du pack langue au choix.
-> WinSCP sortes souvent une mise a jour de leur logiciel, si vous utilisez en version portable dans votre lanue (autre que anlgais) c'est tres embetant de metre a jour celui-ci, car il faut aller sur le site telecharger la derniere version portables de WinSCP ensuite le decompresser pour remplacer les fichiers, et non ce n'ai pas finis car il vous faudra encore votre pack langue. Ici avec ce script il sufis de cliquer sur le fichier powershell et il fait tout tout seul.
+> WinSCP sort souvent une mise à jour de leur logiciel, si vous utilisez en version portable dans votre langue (autre que anlgais) c'est très embêtant de mettre à jour celui-ci, car il faut aller sur le site télécharger la dernière version portable de WinSCP ensuite le décompresser pour remplacer les fichiers, et non ce n'est pas fini car il vous faudra encore votre pack langue. Ici avec ce script il suffit de cliquer sur le fichier powershell et il fait tout tout seul.
 
 ---
 
@@ -212,7 +212,7 @@ https://zartek-creole.github.io/
 
 ### [docker-unrealircd](https://github.com/ZarTek-Creole/docker-unrealircd) <span style="color:red">(Privée/Payant/Donation)</span>
 
-> Image docker de unrealircd pour tres vite deployer une version specifique et pouvoir faire des test ou meme l'utiliser en production si vous preferez docker.
+> Image docker de unrealircd pour déployer très vite une version spécifique et pouvoir faire des tests ou même l'utiliser en production si vous préférez docker.
 
 ---
 
@@ -222,7 +222,7 @@ https://zartek-creole.github.io/
 ### [slTools](https://github.com/ZarTek-Creole/slTools) <span style="color:green">(Free/Gratuit/Donation)</span>
 
 > Outils pour slftp qui permet de l'installer, de le configurer et plus
-> Etend les fonctionalitées de slftp
+> Etend les fonctionalités de slftp
 
 ### [glftpd-installer](https://github.com/ZarTek-Creole/glftpd-installer) <span style="color:green">(Free/Gratuit/Donation)</span>
 
@@ -239,12 +239,12 @@ https://zartek-creole.github.io/
 ### [mirc-script-znc](https://github.com/ZarTek-Creole/mirc-script-znc) <span style="color:green">(Free/Gratuit/Donation)</span>
 
 > znc.mrc for mirc support ZNC - Menu ZNC
-> Ce script MiRC vous permet de manipuler votre ZNC via un menu IRC, tres pratique et rapide car il ne faut pas taper de commandes
+> Ce script MiRC vous permet de manipuler votre ZNC via un menu IRC, très pratique et rapide car il ne faut pas taper de commandes
 
 # Mes Node JS
 ### [BelDocRipper](https://github.com/ZarTek-Creole/BelDocRipper) <span style="color:red">(Privée/Payant/Donation)</span>
 
-> Permet d'enregistrer automatiquement les videos de documentaire depuis Auvio.be (necesite une IP belge)
+> Permet d'enregistrer automatiquement les vidéos de documentaire depuis Auvio.be (necesite une IP belge)
 
 ---
 
@@ -252,7 +252,7 @@ https://zartek-creole.github.io/
 
 ### [slFTP_Admin](https://github.com/ZarTek-Creole/slFTP_Admin) <span style="color:red">(Privée/Payant/Donation)</span>
 
-> Gui for admin the slftp, additioner a slTools vous être au top avec slftp
+> Gui for admin the slftp, additioner à slTools vous êtes au top avec slftp
 
 ---
 
