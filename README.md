@@ -22,6 +22,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZarTek-Creole&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarTek-Creole&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 📝 Contact
+Vous pouvez de contacter sur [Libera Chat](ircs://irc.libera.chat:6697/eggdrop-fr) sous le pseudonyme ZarTek du salon #eggdrop-fr ou par mail ZarTek.Creole de gmail.com
 ---
 [![](https://visitcount.itsvg.in/api?id=zartek&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
