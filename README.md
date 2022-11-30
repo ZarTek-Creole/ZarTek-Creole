@@ -7,11 +7,13 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+<br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<br/>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
@@ -25,18 +27,17 @@
 # 📝 Contact
 Vous pouvez de contacter sur [Libera Chat](ircs://irc.libera.chat:6697/eggdrop-fr) sous le pseudonyme ZarTek du salon #eggdrop-fr ou par mail ZarTek.Creole de gmail.com
 ---
+
 [![](https://visitcount.itsvg.in/api?id=zartek&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
-# Donation
+# <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/euro-banknote_1f4b6.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/whatsapp/326/euro-banknote_1f4b6.png 2x" alt="Donation" width="64" height="64">Donation
 Si vous aimez mon travail mis à disposition gratuitement, vous pouvez faire une donation.
 https://github.com/ZarTek-Creole/DONATE
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/ZarTek-Creole)
 
-# Création, modification, correction TCL sur mesure
+# 📏💼📐 Création, modification, correction TCL sur mesure
 [C'est par ici !](https://ko-fi.com/zartek/commissions#buyShopCommissionModal)
 
-# Page vitrine / web site
-https://zartek-creole.github.io
 
 ---
 
