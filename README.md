@@ -31,7 +31,9 @@ Vous pouvez de contacter sur [Libera Chat](ircs://irc.libera.chat:6697/eggdrop-f
 [![](https://visitcount.itsvg.in/api?id=zartek&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 # <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/euro-banknote_1f4b6.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/whatsapp/326/euro-banknote_1f4b6.png 2x" alt="Donation" width="64" height="64">Donation
-Si vous aimez mon travail mis à disposition gratuitement, vous pouvez faire une donation.
+Si vous utilisez l'un de mes codes et que vous souhaitez contribuer à son amélioration et à son développement futur, nous vous invitons à faire une donation.
+
+En faisant un don, vous contribuez à la croissance de l'open source et à l'amélioration de la communauté. Chaque don compte et permet de soutenir l'innovation et l'excellence dans l'open source.
 https://github.com/ZarTek-Creole/DONATE
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/ZarTek-Creole)
 
