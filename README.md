@@ -1,5 +1,6 @@
 # 💫 About Me:
-🚀 Créateur de scripts tcl/php/docker/bash, de formations et de solutions pour le web & linux. <br>✋ Je suis ZarTek Creole (pseudonyme), Développeur Freelance, Formateur indépendant & helpeur !
+🚀 Créateur de scripts tcl/php/docker/bash, de formations et de solutions pour le web & linux. <br>✋ Je suis ZarTek Creole (pseudonyme), Développeur Freelance, Formateur indépendant & helpeur !<br>
+
 🚀 Creator of tcl/php/docker/bash scripts, training and solutions for web & linux. <br>✋ I am ZarTek Creole (pseudonym), Freelance Developer, Independent trainer & helper!
 
 # 💻 Tech Stack:
@@ -27,7 +28,7 @@
 
 # 📝 Contact
 Vous pouvez de contacter sur [Libera Chat](ircs://irc.libera.chat:6697/eggdrop-fr) sous le pseudonyme ZarTek du salon #eggdrop-fr
-You can contact on [Libera Chat] (IRCS: //irc.libera.Chat: 6697/Eggdrop-fr) under the pseudonym ZARTEK of the #EGGDROP-FR show
+You can contact on [Libera Chat](ircs://irc.libera.chat:6697/eggdrop-fr) under the pseudonym ZarTek of the #eggdrop-fr channel
 
 ---
 
@@ -58,6 +59,10 @@ By donating, you are helping to grow open source and improve the community. Ever
 - [Page vitrine / web site](#page-vitrine--web-site)
 - [Mes réalisations](#mes-réalisations)
   - [Mes Scripts TCL (exhaustif) :](#mes-scripts-tcl-exhaustif-)
+    - [TCL-CBFTP-Invite-Bot (Free/Gratuit/Donation)](https://github.com/ZarTek-Creole/TCL_CBFTP-AUTOINVITE)
+    - [TCL-SLFTP-Invite-Bot (Free/Gratuit/Donation)](https://github.com/ZarTek-Creole/TCL_SLFTP-AUTOINVITE)
+    - [TCL_slTools](https://github.com/ZarTek-Creole/slTools)
+    - [TCL_NET_BGERROR (Free/Gratuit/Donation)](https://github.com/ZarTek-Creole/TCL_NET_BGERROR)
     - [TCL-YouTube-Link (Free/Gratuit/Donation)](#tcl-youtube-link-freegratuitdonation)
     - [TCL-DictionaryAPI (Free/Gratuit/Donation)](#tcl-dictionaryapi-freegratuitdonation)
     - [TCL-ClaraServ (Free/Gratuit/Donation)](#tcl-claraserv-freegratuitdonation)
@@ -81,6 +86,9 @@ By donating, you are helping to grow open source and improve the community. Ever
     - [TCL-PKG-cbFTPtcl (Privée/Payant/Donation)](#tcl-pkg-cbftptcl-privéepayantdonation)
   - [Mes PowerShell (exhaustif) :](#mes-powershell-exhaustif-)
     - [PowerShell-WinSCP-PORTABLE-FR-UPDATE (Free/Gratuit/Donation)](#powershell-winscp-portable-fr-update-freegratuitdonation)
+  - [Mes PHP (exhaustif) :](#mes-powershell-exhaustif-)
+    - [PHP-PRETIME](https://github.com/ZarTek-Creole/PHP-PRETIME)
+    - [php-to-eggdrop Messenger](https://github.com/ZarTek-Creole/php-to-eggdrop)
   - [Mes Images Docker :](#mes-images-docker-)
     - [EggNet-Docker (Free/Gratuit/Donation)](#eggnet-docker-freegratuitdonation)
     - [docker-UnrealIRCd (Privée/Payant/Donation)](#docker-unrealircd-privéepayantdonation)
