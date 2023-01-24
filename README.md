@@ -1,5 +1,6 @@
 # 💫 About Me:
 🚀 Créateur de scripts tcl/php/docker/bash, de formations et de solutions pour le web & linux. <br>✋ Je suis ZarTek Creole (pseudonyme), Développeur Freelance, Formateur indépendant & helpeur !
+🚀 Creator of tcl/php/docker/bash scripts, training and solutions for web & linux. <br>✋ I am ZarTek Creole (pseudonym), Freelance Developer, Independent trainer & helper!
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -25,7 +26,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarTek-Creole&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 📝 Contact
-Vous pouvez de contacter sur [Libera Chat](ircs://irc.libera.chat:6697/eggdrop-fr) sous le pseudonyme ZarTek du salon #eggdrop-fr ou par mail ZarTek.Creole de gmail.com
+Vous pouvez de contacter sur [Libera Chat](ircs://irc.libera.chat:6697/eggdrop-fr) sous le pseudonyme ZarTek du salon #eggdrop-fr
+You can contact on [Libera Chat] (IRCS: //irc.libera.Chat: 6697/Eggdrop-fr) under the pseudonym ZARTEK of the #EGGDROP-FR show
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=zartek&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
@@ -35,6 +38,12 @@ Si vous utilisez l'un de mes codes et que vous souhaitez contribuer à son amél
 
 En faisant un don, vous contribuez à la croissance de l'open source et à l'amélioration de la communauté. Chaque don compte et permet de soutenir l'innovation et l'excellence dans l'open source.
 https://github.com/ZarTek-Creole/DONATE
+If you use one of my codes and would like to contribute to its improvement and future development, we invite you to make a donation.
+
+By donating, you are helping to grow open source and improve the community. Every donation counts and helps support innovation and excellence in open source.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V746S4S)
+
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/ZarTek-Creole)
 
 # 📏💼📐 Création, modification, correction TCL sur mesure
