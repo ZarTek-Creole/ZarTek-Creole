@@ -1,7 +1,7 @@
-# 💫 About Me:
-🚀 Créateur de scripts tcl/php/docker/bash, de formations et de solutions pour le web & linux. <br>✋ Je suis ZarTek Creole (pseudonyme), Développeur Freelance, Formateur indépendant & helpeur !<br>
+# 💫 À propos de moi / About Me:
+🚀 DevOps, Créateur de scripts tcl/php/docker/bash, de formations et de solutions pour le web & linux. <br>✋ Je suis ZarTek-Creole (pseudonyme), Développeur Freelance, Formateur indépendant & helpeur !<br>
 
-🚀 Creator of tcl/php/docker/bash scripts, training and solutions for web & linux. <br>✋ I am ZarTek Creole (pseudonym), Freelance Developer, Independent trainer & helper!
+🚀 DevOps, Creator of tcl/php/docker/bash scripts, training and solutions for web & linux. <br>✋ I am ZarTek Creole (pseudonym), Freelance Developer, Independent trainer & helper!
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
