@@ -1,68 +1,494 @@
-# 💫 À propos de moi / About Me:
-🚀 En tant que développeur Backend et Frontend, expert DevOps, créateur de scripts en tcl/php/docker/bash, de formations et de solutions pour le Web et Linux, je suis en mesure de fournir des services professionnels de haute qualité.<br>
-✋ Je suis ZarTek-Creole, développeur freelance, formateur indépendant et expert en assistance technique.
+---
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/11725850?s=400&u=7a398f3c48fc0832e99dfe4efadae26bfaa56c17&v=4" alt="ZarTek-Creole's avatar" width="200" height="200" />
+</div>
 
-🚀 As a Backend and Frontend developer, DevOps expert, creator of tcl/php/docker/bash scripts, training and solutions for web and Linux, I am able to provide high quality professional services.<br>
-✋ I am ZarTek-Creole, freelance developer, independent trainer and technical support expert.
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-<br/>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<br/>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br/>
-![Pascal](https://img.shields.io/badge/PASCAL-novice-green)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZarTek-Creole&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZarTek-Creole&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarTek-Creole&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-# 📝 Contact
-Vous pouvez de contacter sur [Libera Chat](ircs://irc.libera.chat:6697/eggdrop-fr) sous le pseudonyme ZarTek du salon #eggdrop-fr
-You can contact on [Libera Chat](ircs://irc.libera.chat:6697/eggdrop-fr) under the pseudonym ZarTek of the #eggdrop-fr channel
+<h2 align="center">ZarTek-Creole</h2>
+<h4 align="center">Développeur Backend & Frontend | Expert DevOps | Formateur</h4>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=zartek&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+<h2>💫 À propos de moi</h2>
 
-# <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/euro-banknote_1f4b6.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/whatsapp/326/euro-banknote_1f4b6.png 2x" alt="Donation" width="64" height="64">Donation
-Si vous utilisez l'un de mes codes et que vous souhaitez contribuer à son amélioration et à son développement futur, nous vous invitons à faire une donation.
+Je suis ZarTek-Creole, un passionné de technologie IT ayant une solide expérience en développement Backend et Frontend ainsi qu'en DevOps. Ma philosophie est de créer des solutions novatrices pour le Web et Linux, tout en offrant des services de haute qualité, adaptés à chaque client. Mon rôle de formateur me permet également de partager mon savoir-faire et mes connaissances techniques à travers des formations expertes.
 
-En faisant un don, vous contribuez à la croissance de l'open source et à l'amélioration de la communauté. Chaque don compte et permet de soutenir l'innovation et l'excellence dans l'open source.
-https://github.com/ZarTek-Creole/DONATE
-If you use one of my codes and would like to contribute to its improvement and future development, we invite you to make a donation.
+<h2>🤝 Collaborations</h2>
 
-By donating, you are helping to grow open source and improve the community. Every donation counts and helps support innovation and excellence in open source.
+Je suis toujours ouvert à la collaboration sur des projets intéressants. Que vous cherchiez un partenaire pour donner vie à votre idée, ou que vous ayez besoin d'un expert pour aider à résoudre des défis techniques complexes, je suis là pour aider. Pour les petits projets passionnants, je suis également disposé à travailler sur une base de don ou même gratuitement. C'est ma façon de soutenir la créativité et l'innovation dans notre communauté.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V746S4S)
+<h2>💻 Technologie et compétences</h2>
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/ZarTek-Creole)
+Mon expertise englobe une variété de technologies, ce qui me permet de proposer des solutions complètes adaptées à divers environnements informatiques. Les badges ci-dessous donnent un aperçu des langages et des outils avec lesquels je suis le plus à l'aise.
 
-# 📏💼📐 Création, modification, correction TCL sur mesure
-[C'est par ici !](https://ko-fi.com/zartek/commissions#buyShopCommissionModal)
+<div align="center">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge" />
+    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache badge" />
+    <!-- More badges... -->
+</div>
 
+<h2>📊 Statistiques GitHub</h2>
+
+Mon profil GitHub est un reflet de mon engagement et de ma passion pour le développement. Vous pouvez y consulter mes contributions, ma série de contributions et les langages que j'utilise le plus.
+
+<h2>📝 Contact</h2>
+
+Pour toute discussion, collaboration ou consultation, n'hésitez pas à me contacter sur [Libera Chat](ircs://irc.libera.chat:6697/eggdrop-fr), sous le pseudonyme ZarTek dans le salon #eggdrop-fr.
+
+<h2>📊📈 Visites du profil</h2>
+
+Mon profil GitHub témoigne de mon engagement continu envers la communauté de développeurs. N'hésitez pas à consulter le compteur de visites pour apprécier l'étendue de mon interaction avec la communauté.
+
+<h2>💶 Donations</h2>
+
+Si vous
+
+utilisez l'un de mes codes et que vous souhaitez contribuer à son amélioration et son développement futur, je vous invite à faire une donation. Votre soutien contribue à la croissance de l'open source et aide à améliorer notre communauté. Vous pouvez faire une donation en vous rendant sur cette page : [Faire une donation](https://github.com/ZarTek-Creole/DONATE).
+
+<h2>📏💼📐 Services TCL sur mesure</h2>
+
+Pour toute demande de création, modification ou correction de scripts TCL sur mesure, je suis à votre service. En tant qu'expert, je suis en mesure de fournir des solutions qui répondent spécifiquement à vos besoins. Pour discuter de vos exigences, n'hésitez pas à me contacter via [ce lien](https://ko-fi.com/zartek/commissions#buyShopCommissionModal).
 
 ---
 
-- [Salutations](#salutations)
-- [Donation](#donation)
-- [Création, modification, correction TCL sur mesure](#création-modification-correction-tcl-sur-mesure)
-- [Page vitrine / web site](#page-vitrine--web-site)
+<h3 align="center">Demeurons connectés et faisons de grandes choses ensemble!</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+<h2>🛠️ Projets en cours et réalisations</h2>
+
+Je travaille continuellement sur de nombreux projets innovants, cherchant toujours à créer des solutions technologiques uniques. Vous pouvez voir une liste de mes projets les plus récents et de mes réalisations sur [ma page GitHub](https://github.com/ZarTek-Creole?tab=repositories). 
+
+<h2>📚 Apprentissage et développement continu</h2>
+
+Dans le domaine de la technologie, l'apprentissage ne s'arrête jamais. Je m'efforce constamment d'améliorer mes compétences et de me tenir au courant des dernières tendances et technologies. Cela me permet de fournir à mes clients des solutions à la pointe de la technologie.
+
+<h2>👥 Communauté</h2>
+
+Je crois fermement en la force de la communauté. Que ce soit pour discuter de nouvelles idées, pour résoudre des problèmes techniques ou simplement pour partager nos expériences, je suis toujours prêt à interagir et à collaborer avec d'autres passionnés de technologie.
+
+---
+
+<h3 align="center">Ensemble, faisons progresser la technologie!</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/sponsors/ZarTek-Creole?style=social" alt="Sponsor me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Merci de visiter mon profil!</h2>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://visitcount.itsvg.in/api?id=zartek&label=Profile%20Views&pretty=true" alt="Profile views counter" />
+    </a>
+</div>
+<h2>🔐 Sécurité et fiabilité</h2>
+
+La sécurité et la fiabilité sont au cœur de mes préoccupations lorsque je travaille sur tout projet, qu'il soit petit ou grand. Je m'assure que toutes les solutions que je propose sont sécurisées, fiables et conformes aux meilleures pratiques de l'industrie.
+
+<h2>🔄 Intégration et livraison continues</h2>
+
+En tant qu'expert DevOps, j'ai une solide expérience dans l'implémentation des processus d'intégration et de livraison continues. Ces pratiques permettent un développement plus rapide, plus fiable et plus efficace, ce qui se traduit par une livraison de produit plus rapide et de meilleure qualité pour vous.
+
+<h2>💡 Innovation</h2>
+
+L'innovation est essentielle pour rester compétitif dans le monde technologique en constante évolution. Je suis toujours à la recherche de nouvelles idées et de nouvelles façons d'améliorer les processus et les produits. Si vous avez une idée novatrice ou un défi unique, je serais ravi de vous aider à la réaliser.
+
+---
+
+<h3 align="center">Ensemble, nous pouvons transformer vos idées en réalité!</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Au plaisir de collaborer avec vous!</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+<h2>🌐 Travailler à distance</h2>
+
+Dans le monde actuel, la technologie nous permet de travailler ensemble, peu importe où nous nous trouvons. Je suis parfaitement à l'aise pour travailler à distance et j'ai collaboré avec des clients et des équipes de partout dans le monde.
+
+<h2>👨‍💻 Mentorat et formation</h2>
+
+Au-delà de mon travail en tant que développeur, j'aime partager mes connaissances et aider les autres à apprendre et à progresser. Je suis disponible pour le mentorat et la formation dans divers domaines de l'informatique et du développement web.
+
+<h2>🔄 Contribution à l'Open Source</h2>
+
+Je suis un fervent défenseur de l'open source et j'apprécie la possibilité de contribuer à des projets qui bénéficient à la communauté dans son ensemble. N'hésitez pas à explorer mes contributions et à participer si vous le souhaitez.
+
+---
+
+<h3 align="center">Travaillons ensemble pour créer quelque chose de grand!</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">N'hésitez pas à me contacter pour toute question ou proposition de projet. Au plaisir de travailler avec vous!</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+
+---
+<h2>🚀 Vers l'infini et au-delà</h2>
+
+La technologie évolue rapidement et, avec elle, notre façon de travailler, d'apprendre et d'interagir. Avec mon engagement à rester à jour avec les dernières tendances et innovations, je suis prêt à relever les défis de demain. Que ce soit pour un projet existant ou pour une nouvelle idée, je suis prêt à explorer avec vous les possibilités infinies que la technologie a à offrir.
+
+<h2>🌱 Croissance et évolution</h2>
+
+Pour moi, chaque projet est une opportunité de croissance et d'apprentissage. Que ce soit en résolvant un problème complexe, en apprenant un nouvel outil ou une nouvelle technologie, ou en travaillant avec une équipe dynamique et diversifiée, chaque expérience est une chance de m'améliorer en tant que professionnel et de fournir une valeur encore plus grande à mes clients et partenaires.
+
+<h2>🔬 Recherche et développement</h2>
+
+Je suis constamment à la recherche de nouvelles technologies, outils et méthodologies qui peuvent améliorer la qualité de mon travail et l'efficacité de mes processus. J'aime expérimenter et tester de nouvelles idées, et je suis toujours prêt à intégrer les innovations les plus prometteuses dans ma pratique.
+
+---
+
+<h3 align="center">Continuons à pousser les limites de ce qui est possible ensemble!</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Restons en contact et travaillons ensemble pour un avenir technologique plus brillant!</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+<h2>🎯 Concentration sur l'utilisateur final</h2>
+
+En fin de compte, toute technologie, tout produit, tout service a un but - servir l'utilisateur final. Mon objectif est toujours de créer des solutions qui non seulement répondent aux besoins techniques, mais qui fournissent également une expérience positive et efficace à l'utilisateur final.
+
+<h2>🌎 Impact mondial</h2>
+
+En tant que professionnel IT, je suis conscient de l'impact que notre travail peut avoir à l'échelle mondiale. Que ce soit en rendant l'information plus accessible, en améliorant les communications ou en créant des outils qui aident les gens à atteindre leurs objectifs, chaque projet a le potentiel de faire une différence. Je suis toujours excité de travailler sur des projets qui ont un impact positif et durable.
+
+<h2>🔗 Collaboration et réseau</h2>
+
+L'un des plus grands avantages de travailler dans le domaine technologique est la possibilité de collaborer avec des personnes brillantes de partout dans le monde. Que vous soyez un client, un collègue, un mentor ou un apprenant, j'apprécie l'opportunité de partager des idées, d'apprendre de nouvelles choses et de créer ensemble des solutions incroyables.
+
+---
+
+<h3 align="center">Je suis impatient de collaborer avec vous sur vos projets les plus passionnants!</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Contactez-moi dès aujourd'hui pour discuter de la manière dont nous pouvons transformer vos idées en réalités numériques.</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+<h2>🔐 Gestion de serveur dédié</h2>
+
+Une grande partie de mon expertise réside dans la gestion de serveurs dédiés. Que ce soit pour configurer, maintenir ou sécuriser votre infrastructure de serveur, je peux vous aider à garantir une performance optimale et une disponibilité constante pour votre entreprise.
+
+<h2>📦 Installation de solutions</h2>
+
+L'installation de solutions logicielles peut souvent être un processus complexe nécessitant une compréhension approfondie de la technologie sous-jacente. Que ce soit pour l'installation de systèmes d'exploitation, de bases de données, d'applications web ou d'autres outils logiciels, je suis là pour m'assurer que tout fonctionne correctement dès le début.
+
+<h2>🛠️ Maintenance et support</h2>
+
+La maintenance régulière est cruciale pour garantir la santé et la stabilité de vos systèmes. Je peux fournir des services de maintenance et de support continus pour assurer le bon fonctionnement de vos serveurs, applications et autres systèmes informatiques.
+
+<h2>⚙️ Optimisation des performances</h2>
+
+L'efficacité et la vitesse sont essentielles dans le monde numérique d'aujourd'hui. J'offre des services d'optimisation des performances pour améliorer le temps de réponse de vos serveurs, augmenter la vitesse de vos applications et garantir une expérience utilisateur fluide et efficace.
+
+---
+
+<h3 align="center">Prêt à optimiser votre infrastructure IT ? Je suis là pour vous aider!</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Contactez-moi pour discuter de vos besoins en matière de gestion de serveur dédié, d'installation de solutions, de maintenance et d'optimisation des performances.</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+<h2>💬 Maîtrise de IRC</h2>
+
+L'Internet Relay Chat (IRC) a été l'un des premiers protocoles de messagerie instantanée sur Internet. Même s'il a été créé en 1988, il reste une méthode de communication précieuse et largement utilisée par de nombreuses communautés en ligne, en particulier dans le domaine de l'open source. Ma connaissance approfondie d'IRC me permet de naviguer facilement dans ce monde, que ce soit pour la communication, la collaboration sur des projets ou la fourniture d'un support technique.
+
+<h2>🔧 Création et maintenance de bots IRC</h2>
+
+Les bots IRC peuvent automatiser de nombreuses tâches, y compris la modération de chat, l'envoi de notifications, l'interaction avec les APIs, et bien plus encore. Avec ma vaste expérience dans la création et la maintenance de bots IRC, je peux vous aider à optimiser vos processus, à améliorer l'interaction avec votre communauté et à augmenter l'efficacité de votre équipe.
+
+<h2>🤝 Communauté et support</h2>
+
+Au-delà de la technologie, IRC est avant tout une question de communauté. Que vous ayez besoin d'un soutien technique, de conseils ou simplement d'un espace pour discuter et partager des idées, je suis là pour vous aider. En tant que membre actif de plusieurs canaux IRC, je suis toujours disponible pour discuter, aider et apprendre.
+
+---
+
+<h3 align="center">Connectons-nous sur IRC et travaillons ensemble pour créer une technologie plus forte et une communauté plus solidaire!</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Pour toute question, assistance ou collaboration, n'hésitez pas à me contacter sur IRC ou à travers mes autres canaux de communication.</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+<h2>🐳 Maîtrise de Docker</h2>
+
+Docker a révolutionné la façon dont nous développons, déployons et gérons les applications. Grâce à son approche basée sur les conteneurs, il assure la cohérence entre les environnements de développement, de test et de production, tout en permettant une isolation efficace des applications.
+
+<h2>📦 Création et gestion de conteneurs Docker</h2>
+
+Que vous ayez besoin de conteneuriser une application existante ou de créer un nouvel environnement de développement Docker, je peux vous aider. De la définition de Dockerfiles à la gestion de Docker Compose, je m'assurerai que vos conteneurs sont configurés, sécurisés et prêts à être déployés.
+
+<h2>🚀 Déploiement avec Docker</h2>
+
+Déployer des applications avec Docker peut améliorer l'efficacité, la fiabilité et la scalabilité de vos systèmes. Que vous souhaitiez déployer une application mono-conteneur ou un orchestre de microservices, je peux vous guider à travers le processus de déploiement Docker, en veillant à ce que votre application soit toujours disponible et performante.
+
+<h2>🔧 Maintenance et optimisation des conteneurs Docker</h2>
+
+La gestion de conteneurs Docker ne s'arrête pas au déploiement. Il est crucial de surveiller, mettre à jour et optimiser vos conteneurs pour garantir leur performance et leur sécurité. Je peux vous aider à mettre en place des routines de maintenance, à optimiser vos images Docker et à résoudre les problèmes qui peuvent survenir.
+
+---
+
+<h3 align="center">Prêt à améliorer votre pipeline de développement et de déploiement avec Docker ? Je suis là pour vous aider!</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Pour plus d'informations sur mes services liés à Docker, ou pour discuter de votre projet, n'hésitez pas à me contacter.</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+<h2>🐧 Expertise en Linux</h2>
+
+Linux est un pilier essentiel dans le monde de l'IT, fournissant un système d'exploitation solide, sécurisé et hautement personnalisable. Que ce soit pour le développement d'applications, la gestion de serveurs, l'administration système ou la sécurité, ma maîtrise de Linux peut vous aider à maximiser l'efficacité de vos opérations informatiques.
+
+<h2>🔧 Gestion et administration de serveurs Linux</h2>
+
+La gestion de serveurs Linux exige une connaissance approfondie des systèmes d'exploitation, des protocoles de réseau, de la sécurité informatique, et plus encore. Que vous ayez besoin d'installer un nouveau serveur, de configurer des services réseau, de mettre en place une surveillance du système, ou de résoudre des problèmes de performance, je suis prêt à vous aider.
+
+<h2>💼 Mise en place de solutions open source</h2>
+
+Le monde de l'open source est riche en solutions innovantes qui peuvent aider votre entreprise à réduire ses coûts, à augmenter son agilité et à rester à la pointe de la technologie. De l'installation de bases de données et de serveurs web, à la configuration de systèmes de gestion de contenu ou d'outils de DevOps, je peux vous guider à travers le paysage open source et vous aider à choisir et à mettre en place les solutions qui répondent le mieux à vos besoins.
+
+<h2>📚 Formation et support Linux</h2>
+
+L'adoption de Linux et des solutions open source peut être un défi, en particulier pour ceux qui ne sont pas familiers avec ces technologies. En tant que formateur Linux expérimenté, je peux vous aider à comprendre et à utiliser efficacement Linux, tout en fournissant un support continu pour assurer le bon fonctionnement de vos systèmes.
+
+---
+
+<h3 align="center">Prêt à optimiser votre infrastructure informatique avec Linux et l'open source ? Je suis là pour vous aider!</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Pour plus d'informations sur mes services liés à Linux, ou pour discuter de votre projet, n'hésitez pas à me contacter.</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+
+<h2>👥 Groupes de conversation et échanges de savoir</h2>
+
+L'apprentissage est une voie à double sens, et le partage des connaissances est l'une des choses que je valorise le plus. A travers divers groupes de conversation et forums, je suis constamment en quête d'apprentissage et d'échanges de connaissances. 
+
+<h2>🔬 Groupes de recherche et développement</h2>
+
+Je suis également actif dans plusieurs groupes de recherche et développement, où nous discutons de nouvelles technologies, de meilleures pratiques et des dernières tendances en matière de développement et d'opérations informatiques. Ces échanges m'aident à rester à jour et à constamment améliorer mes compétences.
+
+<h2>📚 Formation et mentorat</h2>
+
+Dans le même esprit, je suis toujours prêt à partager mes connaissances avec ceux qui cherchent à apprendre. Que ce soit par le biais de formations formelles, de mentorat ou simplement en répondant à des questions sur des forums en ligne, j'apprécie l'occasion d'aider les autres à développer leurs compétences et à réussir dans leurs projets.
+
+<h2>🌐 Collaboration open source</h2>
+
+La collaboration est le cœur de l'open source, et je crois fermement en la puissance du travail collectif. Je suis toujours ouvert à collaborer sur des projets open source, que ce soit en contribuant à des projets existants ou en démarrant de nouveaux projets avec d'autres développeurs.
+
+---
+
+<h3 align="center">Envie d'échanger des connaissances ou de collaborer sur un projet ? N'hésitez pas à me contacter !</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Pour plus d'informations sur mes activités de formation et de mentorat, ou pour discuter d'une collaboration, n'hésitez pas à me contacter.</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+<h2>🛠 Besoin de matériel et de serveurs</h2>
+
+Afin de continuer à offrir des services de qualité, à développer et à maintenir des projets open source, ainsi qu'à participer à des activités d'apprentissage et d'échange de connaissances, je suis toujours à la recherche de ressources matérielles, notamment des serveurs. 
+
+<h2>🤝 J'accepte l'aide de tout le monde</h2>
+
+Que vous soyez un particulier disposant d'un serveur inutilisé, une entreprise désireuse de soutenir l'open source, ou tout simplement quelqu'un qui partage ma passion pour le développement et l'opérationnel informatique, votre aide est grandement appréciée.
+
+<h2>🎁 Donations de matériel et de ressources serveur</h2>
+
+Si vous avez du matériel ou des ressources de serveur que vous pouvez offrir, cela peut faire une énorme différence pour moi et pour les projets sur lesquels je travaille. Même les plus petites donations peuvent avoir un impact significatif et sont profondément appréciées.
+
+<h2>💰 Soutien financier</h2>
+
+En plus des donations de matériel, le soutien financier peut aussi aider à couvrir les coûts d'exploitation des serveurs, à acheter du nouveau matériel, à financer des formations et à soutenir l'innovation et l'excellence dans l'open source.
+
+---
+
+<h3 align="center">Chaque geste de soutien, qu'il soit matériel, de ressources serveur ou financier, compte énormément et me permet de continuer à contribuer à la communauté. Merci !</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Pour plus d'informations sur la façon dont vous pouvez soutenir mon travail, ou pour discuter d'une donation, n'hésitez pas à me contacter.</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+<h2>👨‍💻 Gestion de serveurs et résolution de problèmes</h2>
+
+La gestion de serveurs et la résolution de problèmes sont parmi mes passions dans le domaine de l'informatique. J'adore la satisfaction qui vient de la mise en place d'un système complexe, de la résolution d'un problème particulièrement délicat, ou simplement de l'aide à quelqu'un pour obtenir le meilleur de leur infrastructure informatique.
+
+<h2>🛡 Sécurité</h2>
+
+Dans notre monde numérique en constante évolution, la sécurité est plus importante que jamais. J'ai une expérience significative dans la sécurisation des serveurs et des systèmes, en veillant à ce que les données restent en sécurité et que les systèmes fonctionnent comme prévu.
+
+<h2>🔧 Maintenance et améliorations continues</h2>
+
+Le travail avec les serveurs ne s'arrête jamais vraiment. Il y a toujours des mises à jour à installer, des configurations à optimiser, des systèmes à surveiller. Et c'est quelque chose que j'adore. La maintenance et l'amélioration continues sont au cœur de ce que je fais, et je suis toujours à la recherche de nouvelles façons de rendre les systèmes plus efficaces, plus fiables et plus sécurisés.
+
+---
+
+<h3 align="center">Si vous cherchez quelqu'un pour gérer vos serveurs, sécuriser votre infrastructure, ou simplement vous aider à résoudre un problème informatique, n'hésitez pas à me contacter.</h3>
+
+<div align="center">
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<h2 align="center">Pour plus d'informations sur mes services de gestion de serveurs, de sécurité informatique, ou pour discuter d'un projet, n'hésitez pas à me contacter.</h2>
+
+<div align="center">
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+
+<h2>🔗 Partager mon profil</h2>
+
+L'une des meilleures façons de soutenir mon travail et de contribuer à la communauté open source est tout simplement de partager mon profil. Plus de personnes auront accès à mes travaux, pourront bénéficier de mes services et pourront participer à nos discussions et échanges de connaissances. 
+
+<h2>🙏 Merci pour votre lecture</h2>
+
+Je tiens à vous remercier d'avoir pris le temps de lire mon profil jusqu'ici. J'espère que vous avez trouvé quelque chose d'intéressant ou d'utile, et je suis toujours ouvert à vos commentaires et suggestions.
+
+<h2>🤝 Comment puis-je vous être utile ?</h2>
+
+Si vous avez besoin de mes services, si vous voulez discuter d'un projet ou si vous voulez simplement en savoir plus sur ce que je fais, n'hésitez pas à me contacter. Je serais ravi de discuter avec vous et de voir comment je peux vous aider.
+
+<h2>🚀 N'ayez pas peur de me demander</h2>
+
+Je suis ici pour aider, donc si vous avez une question, un problème ou une opportunité, n'hésitez pas à me le faire savoir. Je suis toujours ouvert à de nouvelles idées et à de nouveaux défis, et je suis toujours heureux d'aider quand je le peux.
+
+---
+
+<div align="center">
+    <h3>Merci encore pour votre soutien et votre intérêt pour mon travail. À bientôt !</h3>
+    <a href="https://github.com/ZarTek-Creole">
+        <img src="https://img.shields.io/github/followers/ZarTek-Creole?label=Follow%20me&style=social" alt="Follow me on GitHub" />
+    </a>
+</div>
+
+---
+
+<div align="center">
+    <h2>Vous voulez discuter d'un projet, d'un problème ou d'une idée ? Contactez-moi sur :</h2>
+    <a href="https://ko-fi.com/V7V746S4S">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
+</div>
+
 - [Mes réalisations](#mes-réalisations)
   - [Mes Scripts TCL (exhaustif) :](#mes-scripts-tcl-exhaustif-)
     - [TCL-CBFTP-Invite-Bot (Free/Gratuit/Donation)](https://github.com/ZarTek-Creole/TCL_CBFTP-AUTOINVITE)
