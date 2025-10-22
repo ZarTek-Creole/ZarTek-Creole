@@ -2,17 +2,17 @@
 
 # 👋 ZarTek-Creole | Expert DevOps, Linux & Architecte Open-Source
 
-<!-- Badges dynamiques pour crédibilité et impact visuel -->
-[![GitHub stars](https://img.shields.io/github/stars/ZarTek-Creole/ZarTek-Creole?style=for-the-badge&logo=github)](https://github.com/ZarTek-Creole/ZarTek-Creole/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ZarTek-Creole/ZarTek-Creole?style=for-the-badge&logo=github)](https://github.com/ZarTek-Creole/ZarTek-Creole/network/members)
-[![GitHub followers](https://img.shields.io/github/followers/ZarTek-Creole?style=for-the-badge&logo=github)](https://github.com/ZarTek-Creole?tab=followers)
-[![Top Language](https://img.shields.io/github/languages/top/ZarTek-Creole/ZarTek-Creole?style=for-the-badge)](https://github.com/ZarTek-Creole/ZarTek-Creole)
-[![License](https://img.shields.io/github/license/ZarTek-Creole/ZarTek-Creole?style=for-the-badge)](https://github.com/ZarTek-Creole/ZarTek-Creole/blob/master/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/ZarTek-Creole/ZarTek-Creole?style=for-the-badge)](https://github.com/ZarTek-Creole/ZarTek-Creole/commits)
-[![GitHub Issues](https://img.shields.io/github/issues/ZarTek-Creole/ZarTek-Creole?style=for-the-badge)](https://github.com/ZarTek-Creole/ZarTek-Creole/issues)
+<!-- Badges de profil global - activité et statistiques générales -->
+[![Followers](https://img.shields.io/github/followers/ZarTek-Creole?label=Followers&style=for-the-badge&logo=github)](https://github.com/ZarTek-Creole?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=ZarTek-Creole&style=for-the-badge&color=brightgreen)](https://github.com/ZarTek-Creole)
+[![Discord](https://img.shields.io/discord/123456789012345678?style=for-the-badge&logo=discord&logoColor=white&label=Discord)](https://discord.gg/yourinvite)
 
-<img src="https://avatars.githubusercontent.com/u/11725850?s=400&u=7a398f3c48fc0832e99dfe4efadae26bfaa56c17&v=4" alt="ZarTek-Creole - Expert DevOps & Développeur" width="200" height="200" />
+<!-- GitHub Stats généraux du profil -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZarTek-Creole&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarTek-Creole&layout=compact&theme=dark)
+
+<img src="https://github.com/ZarTek-Creole.png" alt="ZarTek-Creole - Expert DevOps & Développeur" width="200" height="200"/>
 
 ### 🚀 Ingénieur DevOps | Développeur Backend/Frontend | Mentor Tech | Spécialiste IRC/Eggdrop
 
@@ -53,30 +53,72 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### IRC & Networking
+
+![Eggdrop](https://img.shields.io/badge/Eggdrop-Expert-orange?style=for-the-badge)
+![IRC](https://img.shields.io/badge/IRC-Protocol-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🌟 Projets Phares & Réalisations
+## 📊 Activité GitHub
 
-### 🤖 [Eggdrop Modules & IRC Bots](https://github.com/ZarTek-Creole?tab=repositories&q=eggdrop)
+<div align="center">
 
-Développement de modules Tcl avancés pour Eggdrop, automatisation IRC, et solutions de gestion de communautés en ligne.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZarTek-Creole&theme=dark)
 
-**Technologies** : `Tcl` `IRC` `Eggdrop` `Automation` `Scripting`
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZarTek-Creole&theme=github-dark)
 
-### 🐧 Linux System Scripts
+</div>
 
-Collection de scripts d'administration système, automatisation DevOps et optimisation de serveurs Linux.
+---
 
-**Technologies** : `Bash` `Python` `Linux` `SystemD` `Automation`
+## 🌟 Projets Phares
 
-### 🔄 CI/CD Pipelines
+### 🤖 Eggdrop & IRC
+- Développement de modules avancés pour Eggdrop
+- Scripts Tcl pour l'automatisation IRC
+- Outils de gestion de canaux et bots intelligents
 
-Architecture et implémentation de pipelines d'intégration continue pour projets open-source et entreprises.
+### ⚙️ DevOps & Automation
+- Pipelines CI/CD personnalisés
+- Scripts d'infrastructure as code
+- Outils d'automatisation système
 
-**Technologies** : `Jenkins` `GitLab CI` `Docker` `Kubernetes` `GitHub Actions`
+### 📚 Documentation & Formation
+- Guides techniques détaillés
+- Tutoriels pour débutants et experts
+- Ressources éducatives open-source
+
+---
+
+## 📫 Me Contacter
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ZarTek--Creole-181717?style=for-the-badge&logo=github)](https://github.com/ZarTek-Creole)
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 💡 Citation
+
+> *"La meilleure façon de prédire l'avenir est de le créer. Partageons nos connaissances pour bâtir ensemble."*
+
+---
+
+<div align="center">
+
+### ⭐ Si mes projets vous intéressent, n'hésitez pas à explorer mes repos et à contribuer !
+
+**Ensemble, construisons l'avenir du code open-source 🚀**
+
+</div>
