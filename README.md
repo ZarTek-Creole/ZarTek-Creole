@@ -3,12 +3,9 @@
 # 👋 ZarTek-Creole | Expert DevOps, Linux & Architecte Open-Source
 
 <!-- Badges de profil global - activité et statistiques générales -->
-[![Followers](https://img.shields.io/github/followers/ZarTek-Creole?label=Followers&style=for-the-badge&logo=github)](https://github.com/ZarTek-Creole?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=ZarTek-Creole&style=for-the-badge&color=brightgreen)](https://github.com/ZarTek-Creole)
-[![Discord](https://img.shields.io/discord/123456789012345678?style=for-the-badge&logo=discord&logoColor=white&label=Discord)](https://discord.gg/yourinvite)
 
 <!-- GitHub Stats généraux du profil -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZarTek-Creole&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarTek-Creole&layout=compact&theme=dark)
 
@@ -51,8 +48,6 @@
 ### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,18 +56,6 @@
 
 ![Eggdrop](https://img.shields.io/badge/Eggdrop-Expert-orange?style=for-the-badge)
 ![IRC](https://img.shields.io/badge/IRC-Protocol-blue?style=for-the-badge)
-
-</div>
-
----
-
-## 📊 Activité GitHub
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZarTek-Creole&theme=dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZarTek-Creole&theme=github-dark)
 
 </div>
 
@@ -102,8 +85,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZarTek--Creole-181717?style=for-the-badge&logo=github)](https://github.com/ZarTek-Creole)
-[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
