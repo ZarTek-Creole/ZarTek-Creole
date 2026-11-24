@@ -80,6 +80,16 @@
 
 ---
 
+## Soutenir ce travail
+
+Si mes projets open source vous sont utiles, vous pouvez m'offrir un café. Même un petit montant aide à couvrir l'hébergement et le temps de maintenance.
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-zartek-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/zartek)
+[![Stripe](https://img.shields.io/badge/Stripe-Don-635BFF?logo=stripe&logoColor=white)](https://buy.stripe.com/fZe4hTc934M49Us289)
+
+Moyens de don (Ko-fi, Stripe, Bitcoin, Ethereum, Litecoin) : [ZarTek-Creole/DONATE](https://github.com/ZarTek-Creole/DONATE)
+
+
 ## 📫 Me Contacter
 
 <div align="center">
